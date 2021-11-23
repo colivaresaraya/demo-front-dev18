@@ -9,7 +9,7 @@ import { WelcomeComponent } from "./welcome/welcome.component";
 const routes: Routes = [
   { path: "", component: WelcomeComponent },
   { path: "select", component: SelectCreditComponent },
-  { path: "consumer", component: ConsumerCreditComponent },
+  //{ path: "consumer", component: ConsumerCreditComponent },
   //{path: 'mortgage', component : MortgageCreditComponent},
   { path: "**", component: PagenotfoundComponent },
 ];
