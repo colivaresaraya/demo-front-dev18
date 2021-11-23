@@ -1,6 +1,6 @@
 import { NgModule } from "@angular/core";
 import { RouterModule, Routes } from "@angular/router";
-import { ConsumerCreditComponent } from "./consumer-credit/consumer-credit.component";
+//import { ConsumerCreditComponent } from "./consumer-credit/consumer-credit.component";
 //import { MortgageCreditComponent } from './mortgage-credit/mortgage-credit.component';
 import { PagenotfoundComponent } from "./pagenotfound/pagenotfound.component";
 import { SelectCreditComponent } from "./select-credit/select-credit.component";
